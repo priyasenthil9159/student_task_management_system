@@ -1,17 +1,3 @@
-"""
-Student Task Management System  (single-file version)
-=====================================================
-Stack : Python, Flask, SQLite, HTML, CSS, Bootstrap, Jinja2
-Auth  : Flask sessions + Werkzeug password hashing
-
-Run   : pip install flask
-        python app.py
-Open  : http://127.0.0.1:5000
-
-The SQLite file (database.db) is created automatically next to this file.
-All HTML templates and CSS are embedded below, so only this one file is needed.
-(Bootstrap is loaded from a CDN, so an internet connection is needed for styling.)
-"""
 
 import os
 import re
